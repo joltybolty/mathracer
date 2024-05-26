@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Mathers
+comment1.params=
+comment1.target=Mathers()
+comment2.params=difficulty
+comment2.target=java.lang.String\ generateProblem(int)
+comment3.params=input
+comment3.target=boolean\ checkAnswer(java.lang.String)
+numComments=4

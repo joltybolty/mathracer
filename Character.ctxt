@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Character
+comment1.params=x\ y\ w\ h\ f
+comment1.target=Character(int,\ int,\ int,\ int,\ java.io.File)
+comment2.params=leftPressed\ rightPressed
+comment2.target=void\ movePlayer(boolean,\ boolean)
+comment3.params=g2
+comment3.target=void\ drawPlayer(java.awt.Graphics2D)
+comment4.params=
+comment4.target=void\ speedUp()
+comment5.params=
+comment5.target=void\ slowDown()
+comment6.params=
+comment6.target=int\ getPlayerSpeed()
+comment7.params=
+comment7.target=Hitbox\ getPlayerHB()
+comment8.params=
+comment8.target=void\ restartCharacter()
+numComments=9
